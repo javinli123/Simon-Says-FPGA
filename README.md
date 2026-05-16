@@ -8,8 +8,8 @@ This project is a hardware-level implementation of the classic memory game **Sim
 * **1v1 (Versus) Mode:** A competitive mode that distinguishes between Player 1 and Player 2 moves, requiring the system to manage separate memory logic for each participant.
 
 ## Requirements
-* **Hardware:** Nexys A7 FPGA board (specifically the XC7A100T-1CSG324C variant).
-* **Software:** Vivado Design Suite.
+* **Hardware:** Nexys A7 FPGA board (specifically the XC7A100T-1CSG324C variant)
+* **Software:** Vivado Design Suite
 
 ## Vivado Instructions
 
