@@ -27,4 +27,4 @@ This project is a hardware-level implementation of the classic memory game **Sim
 * **7-Segment Display:** Provides visual feedback, including mode indicators and current game scores.
 
 ## Acknowledgements
-This project was developed as part of the **ENG EC 311** course curriculum at **Boston University**. It was a collaborative effort completed by a two-person team.
+This project was developed as part of the **ENG EC 311** course curriculum at **Boston University** during the Spring 2026 semester. It was a collaborative effort completed by a two-person team.
